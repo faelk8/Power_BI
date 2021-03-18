@@ -1,0 +1,6 @@
+cod,produto
+1,Mouse
+2,Teclado
+3,Monitor
+4,Placa Mãe
+5,Memoria DDR
